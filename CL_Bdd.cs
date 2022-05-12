@@ -26,10 +26,10 @@ namespace viteMonLogement
             {
 
                 //Connexion à la BDD
-                String host_name = "db5006827330.hosting-data.io";
-                String database = "dbs5636967";
-                String user_name = "dbu1598136";
-                String password = "Chipie@78";
+                String host_name = "";
+                String database = "";
+                String user_name = "";
+                String password = "";
 
                 string connStr = "server=" + host_name + ";uid=" + user_name + ";pwd=" + password + ";database=" + database;
 
